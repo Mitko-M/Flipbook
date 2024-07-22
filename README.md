@@ -1,6 +1,6 @@
 # Flipbook
 Js, html and css files for a simple 3 page flipbook
-<\br>
+</br>
 [Youtube Tutorial](https://www.youtube.com/watch?v=0kD6ff2J3BQ)
-<\br>
+</br>
 ### Credits to [Coding Star](https://www.youtube.com/@codingstar8227)
